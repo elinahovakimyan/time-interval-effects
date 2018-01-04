@@ -1,0 +1,17 @@
+body {
+	background: #6bdfe5;
+}
+
+.active {
+	display: block !important;
+}
+
+.invisible {
+	display: none;
+}
+
+.scrollDiv {
+	text-align: center;
+	line-height: 500px;
+	font-size: 50px;
+}
